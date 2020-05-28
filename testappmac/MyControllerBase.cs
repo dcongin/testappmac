@@ -13,8 +13,10 @@ namespace testappmac
 {
     public class MyControllerBase: ControllerBase
     {
+        
         public MyControllerBase()
         {
+            
         }
     }
 }
